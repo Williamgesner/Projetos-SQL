@@ -4,8 +4,7 @@
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
-
-## 🧠 Descrição
+## 🧠 Descrição do projeto:
 
 Países também contraem dívidas para manter suas economias funcionando, especialmente em áreas como infraestrutura, saúde e educação. O **Banco Mundial** é uma das principais instituições que fornece financiamento a países em desenvolvimento para promover seu crescimento.
 

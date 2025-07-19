@@ -4,13 +4,14 @@
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
-
-## 📌 Descrição
+## 🧠 Descrição do projeto:
 Como os gostos americanos por nomes de bebês mudaram desde 1920? Quais nomes resistiram ao tempo e quais refletem tendências mais recentes? Este projeto explora 101 anos de dados da Previdência Social dos EUA para responder a essas perguntas — habilidade essencial para quem analisa tendências, seja em marketing ou em decisões pessoais como nomear um filho.
 
+---
 ## 🎯 Objetivo
 Aplicar técnicas de categorização, classificação e análise de recorrência para entender padrões e popularidade em nomes de bebês americanos ao longo de um século.
 
+---
 ## 🔎 Análise
 Os dados foram filtrados para incluir apenas nomes que foram dados a mais de 5.000 bebês em um determinado ano. O dataset contém as seguintes colunas:
 - `year`
@@ -32,5 +33,6 @@ Consultas realizadas:
 - SQL (internamente via DataCamp)
 - Técnicas de `GROUP BY`, `CASE`, `COUNT`, `SUM`, `RANK`, `FILTER`, `JOIN`, `UNION` e manipulação de DataFrames
 
+---
 ## ✅ Conclusão
 O projeto revelou como nomes clássicos permanecem relevantes mesmo após um século, enquanto outros surgem conforme tendências culturais. A categorização de dados temporais se mostrou poderosa para identificar nomes perenes versus passageiros.

@@ -3,13 +3,14 @@
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
-
-## 📌 Descrição
+## 🧠 Descrição do projeto:
 No ambiente educacional competitivo de hoje, entender os fatores que influenciam o sucesso dos alunos é mais importante do que nunca. Assim como os sistemas urbanos precisam se adaptar às necessidades da população, escolas também precisam entender o que impulsiona o desempenho acadêmico. Este projeto analisa um banco de dados rico em detalhes sobre a vida estudantil — como sono, frequência, tutoria e atividades extracurriculares — para entender como esses fatores impactam as notas em exames.
 
+---
 ## 🎯 Objetivo
 Utilizar SQL para explorar fatores que afetam diretamente o desempenho dos alunos, identificando os principais elementos que contribuem para altas notas em provas.
 
+---
 ## 🔎 Análise
 O banco de dados `student_performance` contém as seguintes colunas:
 - `attendance`
@@ -30,6 +31,7 @@ Consultas realizadas:
 3. **Classificação dos alunos com base no desempenho (sem exibir notas)**  
    Aplicação de função de janela (`RANK()`) para atribuir posições por desempenho na prova. Empates recebem a mesma classificação.  
 
+---
 ## ⚙️ Ferramentas Utilizadas
 - SQL
 - Funções de agregação (`AVG`, `GROUP BY`)
@@ -37,6 +39,7 @@ Consultas realizadas:
 - Filtros e ordenações
 - Lógica de categorização de faixas (`CASE WHEN`)
 
+---
 ## ✅ Conclusão
 O projeto demonstrou, com base em dados, como fatores comportamentais como quantidade de estudo, sono e envolvimento extracurricular podem impactar diretamente o desempenho acadêmico. A análise permite tomar decisões informadas para ajudar estudantes a melhorarem suas estratégias de aprendizado.
 

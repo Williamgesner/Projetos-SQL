@@ -4,7 +4,7 @@
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
-## 🧠 Descrição do projeto:**  
+## 🧠 Descrição do projeto:
 Estudar em outro país é uma experiência enriquecedora, mas também pode ser emocionalmente desafiadora. Este projeto explora a relação entre saúde mental e a experiência de estudantes internacionais em uma universidade japonesa.
 
 A análise é baseada em um estudo publicado em 2019, que descobriu que estudantes internacionais enfrentam maior risco de dificuldades de saúde mental em comparação com a população em geral. Fatores como **conexão social** (social connectedness) e **estresse de aculturação** (acculturative stress) foram identificados como preditores significativos de depressão.

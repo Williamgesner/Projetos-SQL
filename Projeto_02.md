@@ -4,7 +4,7 @@
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
-## 🧠 Descrição do projeto:**  
+## 🧠 Descrição do projeto:
 Como os londrinos se locomovem? A Transport for London (TfL) é uma vasta rede de transporte público que permite aos londrinos se deslocarem com eficiência pela capital do Reino Unido, com mais de 1,5 milhão de viagens por dia!
 
 ---

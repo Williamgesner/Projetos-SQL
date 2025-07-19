@@ -4,8 +4,7 @@
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
-
-## 🧠 Descrição
+## 🧠 Descrição do projeto:
 
 Mais de **75% das emissões globais de gases de efeito estufa** estão associadas a produtos – desde alimentos até calçados e eletrodomésticos. Essas emissões incluem desde a geração de calor para fabricação até o transporte, sendo atribuídas a **etapas específicas do ciclo de vida dos produtos**.
 
