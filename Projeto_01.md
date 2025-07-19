@@ -41,6 +41,14 @@ A análise focou nos seguintes pontos:
 
 ---
 
+## 🧩 Tarefas realizadas
+
+- Calcular a quantidade de estudantes internacionais por duração da estadia.
+- Obter as médias arredondadas dos testes PHQ-9, SCS e ASISS por grupo de estadia.
+- Renomear as colunas com os aliases stay, count_int, average_phq, average_scs, e average_as.
+- Ordenar os resultados por tempo de estadia em ordem decrescente.
+- Retornar uma tabela com 9 linhas e 5 colunas.
+
 ## 📌 Conclusão
 
 Este projeto demonstrou que:
