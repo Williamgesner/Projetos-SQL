@@ -1,12 +1,10 @@
-# Projeto 01 – Analisando a saúde mental dos alunos
+# 📊 Projeto 01 – Analisando a saúde mental dos alunos
 
 **🔗 Projeto completo:** [Analisando a saúde mental dos alunos](https://www.datacamp.com/datalab/w/edf058ec-3715-48ff-a7ed-45a8dd5d3187/edit)  
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
-
-## 🧠 Descrição
-
+## 🧠 Descrição do projeto:**  
 Estudar em outro país é uma experiência enriquecedora, mas também pode ser emocionalmente desafiadora. Este projeto explora a relação entre saúde mental e a experiência de estudantes internacionais em uma universidade japonesa.
 
 A análise é baseada em um estudo publicado em 2019, que descobriu que estudantes internacionais enfrentam maior risco de dificuldades de saúde mental em comparação com a população em geral. Fatores como **conexão social** (social connectedness) e **estresse de aculturação** (acculturative stress) foram identificados como preditores significativos de depressão.
@@ -33,14 +31,6 @@ A análise focou nos seguintes pontos:
   - **ASISS** (`toas`): Mede estresse de aculturação.
 - Quantidade de estudantes internacionais por tempo de permanência.
 
-A saída gerada inclui:
-
-| stay | count_int | average_phq | average_scs | average_as |
-|------|------------|----------------|----------------|---------------|
-| ...  | ...        | ...            | ...            | ...           |
-
-> Os dados foram arredondados para duas casas decimais e ordenados pela duração da estadia de forma decrescente.
-
 ---
 
 ## 🛠️ Ferramentas Utilizadas
@@ -59,5 +49,3 @@ Este projeto demonstrou que:
 - Há evidências que reforçam a conclusão do estudo original sobre o impacto da conexão social e do estresse cultural.
 
 ---
-
-*Se você quiser trocar ideias sobre dados, saúde mental e SQL, conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/william-gesner/)!*
