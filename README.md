@@ -2,7 +2,8 @@
 
 Bem-vindo ao meu repositório! 
 Em transição de carreira para a área de Engenharia de Dados, atualmente estou me especializando em SQL e Python, e desenvolvendo alguns projetos práticos e buscando oportunidades para aplicar meus conhecimentos em ambientes reais.
-Aqui você encontrará meus projetos desenvolvidos com foco em SQL e análise de dados.
+Aqui você encontrará meus projetos desenvolvidos com foco em SQL e análise de dados. Cada projeto conta com descrição, objetivos, análises e consultas realizadas.
+
 
 # Projetos realizados em SQL
 
