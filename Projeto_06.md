@@ -1,6 +1,6 @@
 # 📊 Projeto 06 – Analisando hábitos de carregamento de veículos elétricos
 
-**🔗 Projeto completo:** [QAnalisando hábitos de carregamento de veículos elétricos](https://www.datacamp.com/datalab/w/5e6d07a8-2702-4378-9578-fdb243580d9f/edit)  
+**🔗 Projeto completo:** [Analisando hábitos de carregamento de veículos elétricos](https://www.datacamp.com/datalab/w/5e6d07a8-2702-4378-9578-fdb243580d9f/edit)  
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
