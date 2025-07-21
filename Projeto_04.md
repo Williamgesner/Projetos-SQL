@@ -1,6 +1,6 @@
 # 📊 Projeto 04 – Analisando as Emissões de Carbono da Indústria com SQL
 
-**🔗 Projeto completo:** [Analisando as Emissões de Carbono da Indústria](https://www.datacamp.com/datalab/w/d75d33c6-b838-4b79-b6b3-a01ebeb3a27e/edit)  
+**🔗 Projeto completo:** [Analisando as emissões de carbono da indústria](https://www.datacamp.com/datalab/w/d75d33c6-b838-4b79-b6b3-a01ebeb3a27e/edit)  
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---

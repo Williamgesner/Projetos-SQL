@@ -1,6 +1,6 @@
 # 📊 Projeto 02 – Explorando os Meios de Transporte em Londres
 
-**🔗 Projeto completo:** [Analisando a saúde mental dos alunos](https://www.datacamp.com/datalab/w/edf058ec-3715-48ff-a7ed-45a8dd5d3187/edit)  
+**🔗 Projeto completo:** [Explorando os meios de transporte em Londres](https://www.datacamp.com/datalab/w/5e40171f-c093-4e11-aba3-35efb1557070/edit)  
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---

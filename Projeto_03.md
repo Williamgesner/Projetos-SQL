@@ -1,6 +1,6 @@
 # 📊 Projeto 03 – Analisando Dívida Internacional com SQL
 
-**🔗 Projeto completo:** [Analisando Dívida Internacional com SQL](https://www.datacamp.com/datalab/w/d5dfce97-ff80-4a28-9cad-3fcdf33fdcd8/edit)  
+**🔗 Projeto completo:** [Analisando dívidas Internacional com SQL](https://www.datacamp.com/datalab/w/d5dfce97-ff80-4a28-9cad-3fcdf33fdcd8/edit)  
 **👤 LinkedIn:** [William Gesner](https://www.linkedin.com/in/william-gesner/)
 
 ---
